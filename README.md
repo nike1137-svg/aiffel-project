@@ -1,1 +1,1 @@
-# aiffel-projct
+# aiffel-project
